@@ -2,9 +2,9 @@
 	<head>
 		<meta charset="utf-8">
         <title>rf0x3d > Heroku Modules</title>
-        <meta property="og:title" content="rf0x3d > Heroku Modules">
+        <meta property="og:title" content="Quarte > Heroku Modules">
         <meta property="og:locale" content="en_EU">
-        <meta property="og:description" content="rf0x3d's heroku-adapted ftg modules trashcan">
+        <meta property="og:description" content="Quarte's heroku-adapted ftg modules trashcan">
         <meta property="og:image" content="../../assets/images/ava.jpg">
         <link rel="image_src" href="../../assets/images/ava.jpg">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -37,7 +37,7 @@
     </body>
     <script>
 		 
-        console.log('Пасхалка не работает идите нахуй');
+        console.log('Пасхалка не работает, идите нахуй');
         if (getComputedStyle(document.body).getPropertyValue('--has-pasxalka-work') == "true") {
             if(window.devtools.isOpen) { window.location.href = getComputedStyle(document.body).getPropertyValue('--pasxalka'); }
             window.addEventListener('devtoolschange', event => { window.location.href = getComputedStyle(document.body).getPropertyValue('--pasxalka'); });
