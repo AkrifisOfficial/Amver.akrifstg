@@ -20,7 +20,7 @@
   });
 $(function() {
 	$(".typed").typed({
-        strings: ['Just a dev.', "noob designer", "python cocksuccer", "clown", "dead inside", "stupid shit of a stupid shit", "mom's friend's son", "ulbwa gay", "pls donate me)"],
+        strings: ['Just a dev.', "dolbaeb", "Quarte", "termuxtu3tor", "dead inside + clown", "stupid shit of a stupid shit", "mom's friend's son", "Hello, world", "bruh"],
         typeSpeed: 100,
         loop: true,
         cursorChar: "|",
