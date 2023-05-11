@@ -20,7 +20,7 @@
   });
 $(function() {
 	$(".typed").typed({
-        strings: ['Just a dev', "Wilkommen auf meiner Seite", "Razer", "termuxtu3tor", "FTG", "stupid shit of a stupid shit", "mom's friend's son", "Hello world!", "bruh"],
+        strings: ['Welcome', "Quarte", "Kiselchik", "Leroske", "Valera", "Kira", "Soon...", "Hello world!", "bruh"],
         typeSpeed: 100,
         loop: true,
         cursorChar: "|",
