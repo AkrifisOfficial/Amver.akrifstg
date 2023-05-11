@@ -20,7 +20,7 @@
   });
 $(function() {
 	$(".typed").typed({
-        strings: ['Welcome', "Quarte", "Kiselchik", "Leroske", "Valera", "Kira", "Soon...", "Hello world!", "bruh"],
+        strings: ['Welcome', "『🥀』Ｑｕａｒｔｅ", "『🥀』Kiselchik キセル", "LeRoSkE", "Valera", "Kira", "Soon...", "Very soon..!", "bruh"],
         typeSpeed: 100,
         loop: true,
         cursorChar: "|",
